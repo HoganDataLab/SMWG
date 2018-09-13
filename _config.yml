@@ -4,12 +4,12 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://hogandatalab.github.io/SMWG"
-baseurl: ""
+# url: "http://hogandatalab.github.io/SMWG"
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-# url: "http://hogandatalab.github.io/SMWG"
-#baseurl: "/SMWG"
+url: "http://hogandatalab.github.io/SMWG"
+baseurl: "/SMWG"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -24,10 +24,10 @@ title: Statistical and Mathematical Modeling Working Group
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
-  Schedule: "schedule"
-  Resources: "resources"
-  Opportunities: "opportunities"
+  Home: "/index"
+  Schedule: "/schedule"
+  Resources: "/resources"
+  Opportunities: "/opportunities"
   #Tab:
   #  - URL: "www.google.com"
   #  - Paper: "docs/paper/example.pdf"

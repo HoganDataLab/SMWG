@@ -4,7 +4,8 @@ title: Resources
 ---
 
 [September 21](#sept21)  
-[September 28](#sept28)
+[September 28](#sept28)  
+[October 19](#oct19)
 
 ## September 21
 <a id="sept21"></a>
@@ -13,3 +14,10 @@ title: Resources
 
 ## September 28
 <a id="sept28"></a>
+
+  -  O'Hagan, Bayesian Analysis of Computer Code Outputs: A Tutorial, 2006. [pdf](/SMWG/docs/papers/ohagan2006.pdf)
+
+## October 19
+<a id="oct19"></a>
+
+

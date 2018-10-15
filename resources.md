@@ -10,7 +10,7 @@ title: Resources
 ## September 21
 <a id="sept21"></a>
 
-  -  Murray et al, A Comparison of Agent-Based Models and the Parametric G-Formula for Causal Inference, 2017. [pdf](/SMWG/docs/papers/murray2017.pdf) 
+  -  Murray et al., A Comparison of Agent-Based Models and the Parametric G-Formula for Causal Inference, 2017. [pdf](/SMWG/docs/papers/murray2017.pdf) 
 
 ## September 28
 <a id="sept28"></a>
@@ -20,5 +20,5 @@ title: Resources
 ## October 19
 <a id="oct19"></a>
 
-  - Wong, Development and Validation of an Electronic Health Record-Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment, 2018. [pdf](/SMWG/docs/papers/wong2018.pdf)  
+  - Wong et al., Development and Validation of an Electronic Health Record-Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment, 2018. [pdf](/SMWG/docs/papers/wong2018.pdf)  
   - Rose, Machine Learning for Prediction in Electronic Health Data, 2018. [pdf](/SMWG/docs/papers/rose2018.pdf)

@@ -25,4 +25,6 @@ title: Resources
   - Rose, Machine Learning for Prediction in Electronic Health Data, 2018. [pdf](/SMWG/docs/papers/rose2018.pdf)  
 
 ## October 26
-<a id="oct26"></a>
+<a id="oct26"></a>  
+
+

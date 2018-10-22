@@ -5,7 +5,8 @@ title: Resources
 
 [September 21](#sept21)  
 [September 28](#sept28)  
-[October 19](#oct19)
+[October 19](#oct19)  
+[October 26](#oct26)  
 
 ## September 21
 <a id="sept21"></a>
@@ -23,4 +24,7 @@ title: Resources
   - Wong et al., Development and Validation of an Electronic Health Record-Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment, 2018. [pdf](/SMWG/docs/papers/wong2018.pdf)  
   - Rose, Machine Learning for Prediction in Electronic Health Data, 2018. [pdf](/SMWG/docs/papers/rose2018.pdf)  
 
-  - [Jon's Slides](/SMWG/docs/slides/jon_slides.pdf)  
+  - [Slides](/SMWG/docs/slides/jonslides.pdf)  
+
+## October 26
+<a id="oct26"></a>

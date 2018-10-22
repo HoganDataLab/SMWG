@@ -3,8 +3,8 @@
   <channel>
     <title>Statistical and Mathematical Modeling Working Group</title>
     <description></description>
-    <link>http://hogandatalab.github.io/SMWG</link>
-    <atom:link href="http://hogandatalab.github.io/SMWG/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

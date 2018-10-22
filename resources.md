@@ -24,7 +24,5 @@ title: Resources
   - Wong et al., Development and Validation of an Electronic Health Record-Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment, 2018. [pdf](/SMWG/docs/papers/wong2018.pdf)  
   - Rose, Machine Learning for Prediction in Electronic Health Data, 2018. [pdf](/SMWG/docs/papers/rose2018.pdf)  
 
-  - [Slides](/SMWG/docs/slides/jonslides.pdf)  
-
 ## October 26
 <a id="oct26"></a>

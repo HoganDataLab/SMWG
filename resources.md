@@ -29,4 +29,4 @@ title: Resources
 ## October 26
 <a id="oct26"></a>  
 
-
+  - [Ksenia's Slides](/SMWG/docs/slides/Zero_inflated_output_present.pdf)

@@ -7,6 +7,7 @@ title: Resources
 [September 28](#sept28)  
 [October 19](#oct19)  
 [October 26](#oct26)  
+[November 16](#nov16)
 
 <a id="sept21"></a>   
 
@@ -35,3 +36,9 @@ title: Resources
 ## October 26
 
   - [Ksenia's Slides](/SMWG/docs/slides/Zero_inflated_output_present.pdf)
+
+<a id="nov16"></a>
+
+## November 16
+
+  - 

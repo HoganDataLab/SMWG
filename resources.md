@@ -7,7 +7,7 @@ title: Resources
 [September 28](#sept28)  
 [October 19](#oct19)  
 [October 26](#oct26)  
-[November 16](#nov16)
+[November 30](#nov30)
 
 <a id="sept21"></a>   
 
@@ -37,8 +37,10 @@ title: Resources
 
   - [Ksenia's Slides](/SMWG/docs/slides/Zero_inflated_output_present.pdf)
 
-<a id="nov16"></a>
+<a id="nov30"></a>
 
-## November 16
+## November 30
 
-  - 
+  - Singhvi et al., Predicting Bike Usage for New York City's Bike Sharing System, AAAI Workshop: Computational Sustainability, 2015. [pdf](/SMWG/docs/papers/singhvi2015.pdf)  
+
+  - Li et al., Traffic Prediction in a Bike-Sharing System, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015. [pdf](/SMWG/docs/papers/li2015.pdf)

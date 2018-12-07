@@ -46,6 +46,8 @@ title: Resources
 
   - Li et al., Traffic Prediction in a Bike-Sharing System, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015. [pdf](/SMWG/docs/papers/li2015.pdf)
 
+  - [Alice's Slides](/SMWG/docs/slides/bike_models.pdf)  
+
 <a id="dec7"></a>
 
 ## December 7

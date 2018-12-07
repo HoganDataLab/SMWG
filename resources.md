@@ -7,7 +7,8 @@ title: Resources
 [September 28](#sept28)  
 [October 19](#oct19)  
 [October 26](#oct26)  
-[November 30](#nov30)
+[November 30](#nov30)  
+[December 7](#dec7)
 
 <a id="sept21"></a>   
 
@@ -44,3 +45,12 @@ title: Resources
   - Singhvi et al., Predicting Bike Usage for New York City's Bike Sharing System, AAAI Workshop: Computational Sustainability, 2015. [pdf](/SMWG/docs/papers/singhvi2015.pdf)  
 
   - Li et al., Traffic Prediction in a Bike-Sharing System, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015. [pdf](/SMWG/docs/papers/li2015.pdf)
+
+<a id="dec7"></a>
+
+## December 7
+
+  - Van der Ploeg et al., STDSIM: A Microsimulation Model for Decision Support in STD Control, 1998. [link](https://www.jstor.org/stable/25062378?seq=1#page_scan_tab_contents)  
+
+  - Hontelez et al.,, Elimination of HIV in South Africa through Expanded Access to Antiretroviral Therapy: A Model Comparison Study, 2013. [pdf](/SMWG/docs/papers/hontelez2013.pdf)  
+
